@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.instagram.com/vernequeandreg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
 </p>
-
+---
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -28,7 +28,7 @@
     alt="Número de visitantes no perfil"
   />
 </p>
-
+---
 <!-- Linguagens de Programação -->
 <h4>🖥️ Linguagens de Programação:</h4>
 <p align="left" style="display: inline-flex; gap: 10px;">
