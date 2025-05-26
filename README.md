@@ -9,17 +9,14 @@
 
 ## 🎯 Sobre
 
-Este repositório contém a **animação das contribuições** de GitHub gerada automaticamente com o **GitHub Actions** e o projeto [Platane/snk](https://github.com/Platane/snk).
-
-A cada execução do workflow, a snake é atualizada para refletir suas contribuições mais recentes! 🐍✨
 
 ---
 
 ## 🚀 Como funciona
 
-✅ O workflow **Generate Snake** roda no GitHub Actions.  
-✅ Gera dois arquivos: **SVG** e **GIF**.  
-✅ Atualiza automaticamente na branch principal.  
+✅ 
+✅  
+✅ 
 
 ---
 
