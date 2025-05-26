@@ -18,8 +18,13 @@
 <a href="https://www.instagram.com/vernequeandreg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/VnDede/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 <!-- Linguagens de Programação -->
 <h4>🖥️ Linguagens de Programação:</h4>
