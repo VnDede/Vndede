@@ -12,11 +12,6 @@
   <a href="https://https://github.com/VnDede">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VnDede&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
   
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/vernequeandreg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
-</p>
 ---
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
