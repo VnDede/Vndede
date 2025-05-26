@@ -24,5 +24,4 @@
 <p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=VnDede&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
 
 
-
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
