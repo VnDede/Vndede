@@ -20,8 +20,9 @@
 
 <p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=VnDede&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
 
-[![Java](https://skillicons.dev/icons?i=java)](https://dev.java)
+
 <h3 align="left">Languages and Tools:</h3>
+[![Java](https://skillicons.dev/icons?i=java)](https://dev.java)
 <p align="left" style="display: inline-flex">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
