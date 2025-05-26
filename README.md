@@ -6,7 +6,7 @@
 ---
 
 
-<h1 align="center"> Wo de jia 𝓯𝓲𝓵𝓮 (我的家) </h1>
+<h1 align="center"> Wǒ de jiā (我的家) </h1>
 
 
 
