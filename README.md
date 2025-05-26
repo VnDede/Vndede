@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: inline-flex">
 
- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <!-- Linguagens de Programação -->
 <p align="left" style="display: inline-flex; gap: 10px;">
