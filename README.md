@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Linguagens de Programação -->
+<h4>🖥️ Linguagens de Programação:</h4>
 <p align="left" style="display: inline-flex; gap: 10px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -46,6 +47,7 @@
 </p>
 
 <!-- Ferramentas e Build Tools -->
+<h4>⚙️ Ferramentas e Build Tools:</h4>
 <p align="left" style="display: inline-flex; gap: 10px;">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="40"/>
@@ -53,6 +55,7 @@
 </p>
 
 <!-- Sistemas e Plataformas -->
+<h4>💻 Sistemas e Plataformas:</h4>
 <p align="left" style="display: inline-flex; gap: 10px;">
   <a href="https://kernel.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
@@ -60,9 +63,11 @@
 </p>
 
 <!-- Outros -->
+<h4>🌐 Outros:</h4>
 <p align="left" style="display: inline-flex; gap: 10px;">
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" height="40"/>
   </a>
 </p>
+
 
