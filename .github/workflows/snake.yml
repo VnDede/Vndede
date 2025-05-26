@@ -15,10 +15,8 @@ jobs:
         with:
           github_user_name: VnDede
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          palette: "github-dark"
-          # ou, para fundo preto garantido:
+          # cores manuais (fundo preto)
           color_snake: "#8b5cf6"
           color_dots: "#161b22,#0d1117,#30363d,#39d353,#39d353"
 
