@@ -47,9 +47,7 @@ const Peterson Larson = {
 <div align="center">
   <a href="https://https://github.com/VnDede">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VnDede&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VnDede&show_icons=true&theme=cobalt&title_color=3a7eea&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact"/>
-</div> 
-
+  
  
 - 🔭 I’m currently working on [PagoNxt](https://www.pagonxt.com/)
 
