@@ -1,27 +1,28 @@
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v3
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the snake
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          github_user_name: VnDede
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
-      - name: Push the generated snake
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
+          author_name: VnDede
+          author_email: vndede@example.com
           message: "Generate contribution snake"
-          add: "dist/*.svg"
-
