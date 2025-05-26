@@ -5,7 +5,7 @@
 ---
 ![GitHub Snake SVG](https://raw.githubusercontent.com/VnDede/VnDede/output/github-contribution-grid-snake.svg)
 ---
-```javascript```
+```C && Python```
 <p align="center" style="display: inline-flex">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 <div align="center">
