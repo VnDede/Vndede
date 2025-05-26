@@ -18,12 +18,6 @@
 <a href="https://www.instagram.com/vernequeandreg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
 </p>
 
-<p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=VnDede&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: inline-flex">
-
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Linguagens de Programação -->
@@ -71,5 +65,4 @@
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" height="40"/>
   </a>
 </p>
-
 
