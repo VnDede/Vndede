@@ -4,6 +4,7 @@
 
 ---
 
+
 ## 🎯 Sobre
 
 Este repositório contém a **animação das contribuições** de GitHub gerada automaticamente com o **GitHub Actions** e o projeto [Platane/snk](https://github.com/Platane/snk).
