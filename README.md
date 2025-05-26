@@ -49,19 +49,7 @@ const Peterson Larson = {
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VnDede&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
   
  
-- 🔭 I’m currently working on [PagoNxt](https://www.pagonxt.com/)
 
-- 🌱 I’m currently learning **Clean arch, DDD, Ports and Adapters**
-
-- 👯 I'm working on my own project called [File Storage](https://github.com/Pscodium/file-storage)
-
-- 🤝 My last own project was [DDD hexagonal rest example](https://github.com/Pscodium/ddd-hexagonal-rest-example)
-
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/Pscodium?tab=repositories)
-
-- 💬 Ask me about **Python, Node.js, Typescript, React native, Javascript, ReactJs**
-
-- 📫 How to reach me **peter-larson@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
