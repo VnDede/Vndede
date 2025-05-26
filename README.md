@@ -1,7 +1,6 @@
 # 🐍 GitHub Contribution Snake Animation
 
-![GitHub Snake Light](https://github.com/VnDede/VnDede/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/VnDede/VnDede/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://github.com/VnDede/VnDede/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
