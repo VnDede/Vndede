@@ -2,7 +2,8 @@ name: generate github-contribution-grid-snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *" # Gera duas vezes por dia
+  workflow_dispatch:
 
 jobs:
   generate:
