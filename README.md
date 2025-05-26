@@ -5,7 +5,7 @@
 ---
 ![GitHub Snake SVG](https://raw.githubusercontent.com/VnDede/VnDede/output/github-contribution-grid-snake.svg)
 ---
-``` ```
+``` Progress ```
 <p align="center" style="display: inline-flex">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -13,8 +13,6 @@
   <a href="https://https://github.com/VnDede">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VnDede&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en"/>
   
- 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
