@@ -6,40 +6,10 @@
 ---
 
 
-<h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
+<h1 align="center"> Wo de jia 𝓯𝓲𝓵𝓮 (我的家) </h1>
 
 
-```C
-const Peterson Larson = {
-    code: [Nodejs, Typescript, Python],
-    askMeAbout: [ "typescript", "hexagonal arch", "clean arch", "driven-domain design", "microservices"],
-    technologies: {
-        backEnd: {
-            nodejs: ["express", "sequelize", "prismaorm", "awillix"],
-            typescript: ["nest.js", "typeorm", "featherjs", "awillix", "tsyringe"],
-            python: ["flask", "django", "pandas", "peewee"]
-        },
-        frontEnd: {
-            react: ["react-native", "styled-components", "context-api"],
-            html: ["bootstrap"],
-        }        
-    },
-    
-    databases: [PostgreSQL, MongoDB, MySQL, SQLite, RDS, Firestore, Redis],
-    cloud: [DigitalOcean, AWS, Azure],
-    services: [S3, RDS, SQS, Lambda, Serveless, SNS, SES, Tables, Az. Functions, Droplets],
-    utils: {
-        system: {
-            linux: ["vscode", "postman", "insomnia", "beekeeper"],
-            windows: ["vscode", "unity", "docker"],       
-        },
-        games: {
-            steam: ["pubg", "rocket league", "sea of thieves"],
-            origin: ["battlefield 4"],
-            epic: ["the hunter", "cities skylines"],
-        },
-    
-};
+
 ```
 
 <p align="center" style="display: inline-flex">
