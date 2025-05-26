@@ -22,6 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![Java](https://skillicons.dev/icons?i=java)](https://dev.java)
 <p align="left" style="display: inline-flex">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
