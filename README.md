@@ -56,7 +56,7 @@ const Peterson Larson = {
 <a href="https://www.instagram.com/vernequeandreg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
 </p>
 
-<p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=pscodium&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
+<p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=VnDede&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
