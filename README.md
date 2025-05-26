@@ -21,5 +21,5 @@
 <p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=VnDede&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
 
 
-![VS Code](<i class="devicon-vscode-plain colored"></i>)
+![VS Code]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" )
           ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
