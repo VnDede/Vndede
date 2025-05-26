@@ -37,6 +37,9 @@
   
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=php)
+    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+    ![](https://img.shields.io/badge/C-blue?style=flat)
   </a> 
 </p>
 
