@@ -53,7 +53,7 @@ const Peterson Larson = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pscodium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vernequeandreg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pscodium" height="30" width="40" /></a>
 </p>
 
 <p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=pscodium&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
