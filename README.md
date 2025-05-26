@@ -7,7 +7,7 @@
 ---
 ```C && Python```
 <p align="center" style="display: inline-flex">
-<img src=https://i.pinimg.com/originals/8a/ae/aa/8aaeaac8949ed073ee74d0374c3df612.gif" width="100">
+<img src=https://br.pinterest.com/pin/788059634819207268/" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 <div align="center">
   <a href="https://https://github.com/VnDede">
