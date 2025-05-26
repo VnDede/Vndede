@@ -25,6 +25,6 @@ A cada execução do workflow, a snake é atualizada para refletir suas contribu
 Basta incluir este trecho no seu `README.md` do perfil:
 
 ```markdown
-![GitHub Snake Light](https://github.com/VnDede/VnDede/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/VnDede/VnDede/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://github.com/VnDede/VnDede/blob/output/github-contribution-grid-snake-dark.svg)
+
 
