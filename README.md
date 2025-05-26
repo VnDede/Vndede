@@ -9,7 +9,7 @@
 <h1 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 </h1>
 
 
-```javascript
+```C
 const Peterson Larson = {
     code: [Nodejs, Typescript, Python],
     askMeAbout: [ "typescript", "hexagonal arch", "clean arch", "driven-domain design", "microservices"],
