@@ -20,7 +20,7 @@
 
 <p align="left" style="display: inline-flex"> <img src="https://komarev.com/ghpvc/?username=VnDede&label=Profile%20views&color=0e75b6&style=flat" alt="pscodium" /> </p>
 
-
+[![Java](https://skillicons.dev/icons?i=java)](https://dev.java)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: inline-flex">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -31,6 +31,7 @@
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+  </a> 
 </p>
+
 
