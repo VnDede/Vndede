@@ -1,5 +1,5 @@
 <h1 align="center"> Wǒ de jiā (我的家) </h1>
-<div align="center"> Toda ideia começa no papel branco de nossas mentes ! </div>  
+<div align="center"> Toda idéia começa no papel branco de nossas mentes ! </div>  
 
 
 
