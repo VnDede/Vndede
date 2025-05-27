@@ -8,8 +8,6 @@
 ![GitHub Snake](https://raw.githubusercontent.com/VnDede/VnDede/output/github-contribution-grid-snake-dark.svg)
 ---
 ``` Progress ```
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VnDede&show_icons=true&theme=cobalt&title_color=3a7eea&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact"/>
 </div>
 <div align="center">
   <a href="https://https://github.com/VnDede">
