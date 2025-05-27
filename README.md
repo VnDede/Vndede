@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/nDede/count.svg"
+    src="https://profile-counter.glitch.me/VnDede/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
