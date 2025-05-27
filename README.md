@@ -5,7 +5,7 @@
 
 
 ---
-![GitHub Snake SVG](https://raw.githubusercontent.com/VnDede/VnDede/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/VnDede/VnDede/output/github-contribution-grid-snake-dark.svg)
 ---
 ``` Progress ```
 <p align="center" style="display: inline-flex">
